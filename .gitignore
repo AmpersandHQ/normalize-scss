@@ -19,3 +19,5 @@ nbproject
 .DS_Store
 ._*
 Thumbs.db
+
+.node-version
